@@ -1,0 +1,9 @@
+Public datasets are provided in https://www.kaggle.com that are prepared under the COVID-19 Open Research Dataset (CORD-19) initiative. 
+
+There are three main datasets used in this project: Covid-19 Cases, Humidity, and Temperature dataset.
+Each dataset contains: 
+- Province/State column describe the province of the data contained in a row
+- Country/Region column describe the Country of the data contained in a row
+- Lat column describe the latitude of the specified province in related row
+- Long column describe the longitude of the specified province in related row
+Number of cases, level of humidity, and temperature are included after those column formatted in time series data showing for each day.
