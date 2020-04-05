@@ -4,7 +4,7 @@ This project is a **machine learning** project prepared to help Gugus Tugas Perc
 
 *This project is part of Google Bangkit Program assignment #05-W05*
 >**Team Member**:
-[Nala Krisnanda](https://github.com/pascalisnala) 
+[Nala Krisnanda](https://github.com/pascalisnala), 
 [Emma Suryani](https://github.com/hoboroots)
 
 ## Datasets
@@ -21,3 +21,6 @@ We use public datasets to supporting this project.  Some of the datasets that we
 -   Tensorflow K-Means clustering is being used to model the hypothesis to understand the impact of weather variation on the spread of COVID-19.
     
 -   For visualization, we reduce the feature using principal component analysis (PCA) to make cluster results easier to see and take insights
+
+## Slides/PPT
+You can read the complete results of this analysis in presentation format at [this link](https://docs.google.com/presentation/d/1w0gt4dR3eC99KrHu0gF_EZ4s9i8UDMex8MIsImMKtnU/edit#slide=id.g82e6a5c596_0_16)
